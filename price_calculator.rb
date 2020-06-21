@@ -1,3 +1,5 @@
+# This was written using ruby 2.6.5
+
 ITEM_PRICES = {
   'milk' => { price: 3.97, sale_quantity: 2, sale_price: 5.00 },
   'bread' => { price: 2.17, sale_quantity: 3, sale_price: 6.00 },
